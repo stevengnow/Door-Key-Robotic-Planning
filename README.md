@@ -27,3 +27,5 @@ The example.py shows you how to interact with the utilities in utils.py, and als
 <img src="GIFs/Known Map GIFs/8x8-normal.gif">
 <img src="GIFs/Known Map GIFs/8x8-direct.gif">
 <img src="GIFs/Known Map GIFs/8x8-shortcut.gif">
+<img src="GIFs/Random Map GIFs/random3.gif">
+<img src="GIFs/Random Map GIFs/random5.gif">
