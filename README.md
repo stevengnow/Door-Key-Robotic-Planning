@@ -24,3 +24,4 @@ The example.py shows you how to interact with the utilities in utils.py, and als
 
 
 ## Results
+<img src="GIFs/Known Map GIFs/8x8-normal.gif">
