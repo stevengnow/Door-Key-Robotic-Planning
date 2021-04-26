@@ -1,7 +1,7 @@
 # Door-Key-Robotic-Planning via Dynamic Programming
 
 ## Overview
-In this project, we implement dynamic programming for the Door-key problem.
+In this project, we implement dynamic programming for the Door-key problem. We are to get the agent (red arrow) to the goal location (green cell) in the fewest number of steps possible.
 
 ## Installation
 
@@ -25,3 +25,5 @@ The example.py shows you how to interact with the utilities in utils.py, and als
 
 ## Results
 <img src="GIFs/Known Map GIFs/8x8-normal.gif">
+<img src="GIFs/Known Map GIFs/8x8-direct.gif">
+<img src="GIFs/Known Map GIFs/8x8-shortcut.gif">
